@@ -11,24 +11,34 @@ Flex Bot is an automated perl script made with the selenium wich autlomatically 
 ### System Requirements
 For windows use Stawberry or Active Perl IDE
 
-For linux basic libraries LWP::UserAgent, HTTP::Request, Win32::Console, Term::ANSIColor, Win32::Console::ANSI and LWP::Simple and Selenium::Remote::Driver is required.
+For linux basic libraries Term::ANSIColor, Win32::Console::ANSI and LWP::Simple and Selenium::Remote::Driver is required.
+
+1) Selenium standalone server<br>
+2) Java<br>
+3) Perl<br>
+4) Selenium::Remote::Driver Library<br>
+5) Gecko driver for firefox<br>
 
 ### Usage Instructions
-1- Download the repository and extract it to a folder or
+1-Start selenium standalone server using java
+
+2- Download the repository and extract it to a folder or
 ```
    git clone https://github.com/Ahmad-Ishaq/FLEX-BOT
 ```
-2- Open a terminal.
+3- Open a terminal.
 
-3- cd to FLEX-BOT
+4- cd to FLEX-BOT
 ```
    cd Admin-Hunter
 ```
-4- run script
+5- run script
 ```
    perl flexbot.pl
 ```
-5- Enjoy
+6- Enter Username and Password
+
+7- Enjoy
 
 If you are stuck anywhere or need any help you can raise an issue.
 ### Screenshot
