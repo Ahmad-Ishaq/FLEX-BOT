@@ -33,7 +33,7 @@ For linux basic libraries LWP::UserAgent, HTTP::Request, Win32::Console, Term::A
 If you are stuck anywhere or need any help you can raise an issue.
 ### Screenshot
 
-![Admin-Hunter  ScreenShot](https://raw.githubusercontent.com/Ahmad-Ishaq/FLEX-BOT/master/screenshot.PNG)
+![Admin-Hunter  ScreenShot](https://raw.githubusercontent.com/Ahmad-Ishaq/FLEX-BOT/master/Screenshot.PNG)
 
 ## Authors
 
