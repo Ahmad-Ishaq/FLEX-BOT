@@ -9,15 +9,17 @@ Perl Automated Feedback Submitter
 Flex Bot is an automated perl script made with the selenium wich autlomatically submits Course Feedback For Flexstudent.nu.edu.pk
 
 ### System Requirements
-For windows use Stawberry or Active Perl IDE
-
-For linux basic libraries Term::ANSIColor, Win32::Console::ANSI and LWP::Simple and Selenium::Remote::Driver is required.
 
 1) Selenium standalone server<br>
 2) Java<br>
 3) Perl<br>
 4) Selenium::Remote::Driver Library<br>
 5) Gecko driver for firefox<br>
+
+For windows use Stawberry or Active Perl IDE
+
+For linux basic libraries Term::ANSIColor, Win32::Console::ANSI and LWP::Simple and Selenium::Remote::Driver is required.
+IF Not installed better install the libraries first.
 
 ### Usage Instructions
 1-Start selenium standalone server using java
@@ -30,7 +32,7 @@ For linux basic libraries Term::ANSIColor, Win32::Console::ANSI and LWP::Simple 
 
 4- cd to FLEX-BOT
 ```
-   cd Admin-Hunter
+   cd FLEX-BOT
 ```
 5- run script
 ```
